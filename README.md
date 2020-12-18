@@ -2,7 +2,7 @@
 #### I am am a website/discord bot developer.
 - Developer of [ControlPanel.gg](https://controlpanel.gg)
 
-- Admin of [BlueFox hosting](https://bluefoxhost.com)
+- Admin of [BlueFox Hosting](https://bluefoxhost.com)
 
 - Founder of [DiscordVote.net](https://discordvote.net), Azot Studios.
 
