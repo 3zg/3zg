@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Jetus
 #### I am am a website/discord bot developer.
-- Developer of ControlPanel.gg
+- Developer of ![ControlPanel.gg](https://controlpanel.gg)
 
-- Admin of BlueFoxhost.com
+- Admin of ![BlueFox hosting](https://bluefoxhost.com)
 
-- Founder of DiscordVote.net, Azot Studios.
+- Founder of ![DiscordVote.net](https://discordvote.net), Azot Studios.
 
 
 Skills: Coding landuages I know are JS, PY, HTML, CSS.
