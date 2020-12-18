@@ -7,7 +7,7 @@
 - Founder of [DiscordVote.net](https://discordvote.net), Azot Studios.
 
 
-Skills: Coding landuages I know are JS, PY, HTML, CSS.
+Skills: JS, PY, HTML, CSS.
 
 
 
