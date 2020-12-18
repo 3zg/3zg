@@ -1,12 +1,18 @@
-# Jetus
-
-I am a website/discord bot developer.
-
-Coding landuages I know are JS, PY, HTML, CSS.
-
-#
- - Developer of ControlPanel.gg
+### Hi there 👋, I am Jetus
+#### I am am a website/discord bot developer.
+- Developer of ControlPanel.gg
 
 - Admin of BlueFoxhost.com
 
 - Founder of DiscordVote.net, Azot Studios.
+
+
+Skills: Coding landuages I know are JS, PY, HTML, CSS.
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dev-Jetus)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Jetus&show_icons=true&count_private=true)  
+
+![Profile views](https://gpvc.arturio.dev/Dev-Jetus)  
