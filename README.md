@@ -12,10 +12,9 @@ Skills: JS, PY, HTML, CSS.
 
 
 
+[Discord Server](https://discord.gg/MMDHRW9wtc)
 
 ![Profile views](https://gpvc.arturio.dev/Dev-Jetus)
-
-![Discord Server](https://discord.gg/MMDHRW9wtc)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Jetus&show_icons=true&count_private=true)  
 
