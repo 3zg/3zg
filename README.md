@@ -6,9 +6,9 @@
 
 - Founder of [DiscordVote.net](https://discordvote.net), [Azot Studios](https://discord.gg/3JpU7m7aSE).
 
-- [My official Discord Server](https://discord.gg/MMDHRW9wtc).
+- [Discord Server](https://discord.gg/MMDHRW9wtc).
 
-_ [My official Website](https://jetus.me)
+- [Website](https://jetus.me)
 
 
 # 
