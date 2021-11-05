@@ -1,15 +1,11 @@
-# Hi there 👋, I am Jetus
- I am am a website/discord bot developer (Maybe).
-# [Website](https://jetus.me)
+```python
+C:\Github\Users\3zg>py profile.py
+```
 
+<img align="left" src="https://cdn.discordapp.com/attachments/898911793907372063/899264637755850812/original.png" width="200" /> 
 
-
-# 
-Skills: JS, PY, HTML, CSS.
-
-
-
-![Profile views](https://gpvc.arturio.dev/Dev-Jetus)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Jetus&show_icons=true&count_private=true&theme=dark)
-
+```python
+Name = 3zg
+Languages = Python + JavaScript + CSS (+ HTML)
+Discord = peak#0001 - 900435686186954813
+```
