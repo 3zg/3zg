@@ -7,5 +7,5 @@ C:\Github\Users\3zg>py profile.py
 ```python
 Name = 3zg
 Languages = Python + JavaScript + CSS (+ HTML)
-Discord = peak#0001 - 900435686186954813
+Discord = Goat#8888 - 900435686186954813
 ```
