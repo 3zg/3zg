@@ -9,3 +9,4 @@ Name = 3zg
 Languages = Python + JavaScript + CSS (+ HTML)
 Discord = Goat#8888 - 921103179167461456
 ```
+![](https://komarev.com/ghpvc/?username=szg&style=plastic&label=Profile+Views)
