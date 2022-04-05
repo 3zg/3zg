@@ -7,6 +7,6 @@ C:\Github\Users\3zg>py profile.py
 ```python
 Name = 3zg
 Languages = Python + JavaScript + CSS (+ HTML)
-Discord = shaft#0001 - 921103179167461456
+Discord = jetus#0001 - 921103179167461456
 ```
 ![](https://komarev.com/ghpvc/?username=szg&style=plastic&label=Profile+Views)
