@@ -1,5 +1,5 @@
 ```python
-C:\Github\Users\3zg>py profile.py
+C:\Github>py jetusw.py
 ```
 ```python
 Languages = Python + JavaScript + CSS (+ HTML)
