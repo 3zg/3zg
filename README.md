@@ -1,5 +1,5 @@
 ```python
-C:\Github>py jetusw.py
+C:\Github>./j3tus
 ```
 ```python
 Languages = Python + JavaScript + CSS (+ HTML)
