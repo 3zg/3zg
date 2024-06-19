@@ -1,7 +1,24 @@
-```python
-C:\Github>./j3tus
+```markdown
+# JETUS - Developer
 ```
-```python
-Languages = Python + JavaScript + CSS (+ HTML)
-Discord = jetusw
+```shell
+C:\Github> ./j3tus
+```
+
+```yaml
+#!/bin/bash
+Languages:
+  - Python
+  - TypeScript
+  - JavaScript
+  - CSS
+  - HTML
+
+Frameworks:
+  - Nuxt
+  - React
+  - Next.js
+
+Discord:
+  - jetusw
 ```
