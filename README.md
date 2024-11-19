@@ -1,6 +1,7 @@
 ```markdown
 # JETUS - Developer
 ```
+![](https://komarev.com/ghpvc/?username=j3tus&abbreviated=true)
 ```shell
 C:\Github> ./j3tus
 ```
